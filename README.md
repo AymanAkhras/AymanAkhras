@@ -39,5 +39,8 @@
   </a>
   <a href="	https://www.instagram.com/ayman_n.a/?hl=en"><img alt="Instagram" title="Instagram Profile" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="https://aymanakhras.github.io/MySite/index.html"><img alt="Instagram" title="Website" src ="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
+">
+  </a>
 
 </List2>
