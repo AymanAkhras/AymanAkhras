@@ -9,7 +9,7 @@
 
 
 ## 👨🏻‍💻 Languages and Tools
-<ul style="display: inline-block; float: center;">
+<ul style="display: inline-block;" align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
