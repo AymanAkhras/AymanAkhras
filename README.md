@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://aymanakhras.github.io/MySite/index.html"><img width="60%" img height="60%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_World.png" />
   </a>
-  ![Hand Wave](https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif)
 </p> 
-
+ ![Hand Wave](https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif)
+ 
 <a href="https://github.com/AymanAkhras"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a>
 
 <h2 align="center"> :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h2>
