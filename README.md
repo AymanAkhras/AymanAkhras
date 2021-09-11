@@ -1,14 +1,15 @@
 
 <a href="https://github.com/AymanAkhras"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<h2 align="center"> :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h2>
+
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 Developing a HomeCare Robot using a Jetson Nano, Camera, and Lidar @ Seasame Robotics 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Software Engineering 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 McMaster 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸024
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 
+<h2 align="center"> 👨🏻‍💻 Languages and Tools </h2>
 
-## 👨🏻‍💻 Languages and Tools
 <ul style="display: inline-block;" align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </ul>
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+<h2 align="center">🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
 
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=dark)
