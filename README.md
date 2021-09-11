@@ -1,4 +1,8 @@
-<p align="center"><a href="https://aymanakhras.github.io/MySite/index.html"><img width="50%" img height="50%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_Github.png" /></a></p> 
+<p align="center">
+  <a href="https://aymanakhras.github.io/MySite/index.html"><img width="60%" img height="60%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_World.png" />
+  </a>
+  ![Hand Wave](https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif)
+</p> 
 
 <a href="https://github.com/AymanAkhras"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a>
 
