@@ -2,7 +2,7 @@
   <a href="https://aymanakhras.github.io/MySite/index.html"><img width="60%" img height="60%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_World.png" />
   </a>
 </p> 
- ![Hand Wave](https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif)
+![Hand Wave](https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif)
  
 <a href="https://github.com/AymanAkhras"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a>
 
