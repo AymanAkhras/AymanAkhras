@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨🏻‍💻 Languages and Tools </h2>
 
-<List style="display: inline-block;">
+<List1 style="display: inline-block;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   
-</List>
+</List1>
 
 <h2 align="center"> ↗️ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
 
@@ -31,7 +31,7 @@
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 
-<List style="display: inline-block;" align="left">
+<List2 style="display: inline-block;" align="left">
   
   <a href="https://www.linkedin.com/in/ayman-akhras/"><img alt="Linkedin" title="Linkedin Profile" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
   </a>
@@ -40,4 +40,4 @@
   <a href="	https://www.instagram.com/ayman_n.a/?hl=en"><img alt="Instagram" title="Instagram Profile" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-</List>
+</List2>
