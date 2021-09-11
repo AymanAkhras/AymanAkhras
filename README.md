@@ -31,7 +31,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkhras&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=dark)
 
 
