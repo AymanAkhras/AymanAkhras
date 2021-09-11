@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://aymanakhras.github.io/MySite/index.html"><img width="60%" img height="60%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_World.png" />
   </a>
-  <img src="https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif" /> 
+  <img width="60%" img height="60%" margin src="https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif" /> 
 
 </p> 
  
