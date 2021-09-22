@@ -43,7 +43,17 @@
 
 <h2 align="center"> ↗️ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkhras&layout=compact&langs_count=8&theme=dark)](https://github.com/AymanAkhras?tab=repositories)
+{
+  user(login: "rjoydip") {
+    repositories(isFork: false, first: 100, orderBy: {field: UPDATED_AT, direction: DESC}) {
+      nodes {
+        primaryLanguage {
+          name
+        }
+      }
+    }
+  }
+}
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=dark)
 
