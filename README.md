@@ -43,17 +43,8 @@
 
 <h2 align="center"> ↗️ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
 
-{
-  user(login: "rjoydip") {
-    repositories(isFork: false, first: 100, orderBy: {field: UPDATED_AT, direction: DESC}) {
-      nodes {
-        primaryLanguage {
-          name
-        }
-      }
-    }
-  }
-}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkhras&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=dark)
 
