@@ -43,7 +43,7 @@
 
 <h2 align="center"> ↗️ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=C#,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAkhras&hide=C#,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=dark)
