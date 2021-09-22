@@ -43,10 +43,8 @@
 
 <h2 align="center"> ↗️ 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AymanAkhras)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=dark)
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=AymanAkhras&show_icons=true&theme=tokyonight" /></p>
 
 
 <h2 align="center"> 📫 𝙷𝚘𝚠 𝚝𝚘 R𝚎𝚊𝚌𝚑 M𝚎 </h2>
