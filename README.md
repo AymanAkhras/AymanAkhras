@@ -5,7 +5,7 @@
 
 </p> 
  
-<a href="https://github.com/AymanAkhras"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a>
+<!-- <a href="https://github.com/AymanAkhras"><img alt="Vistors" title="Github Vistors" src ="https://my-github-vistor-counter.herokuapp.com/"></a> -->
 
 <h2 align="center"> :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 </h2>
 
