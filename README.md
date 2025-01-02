@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aymanakhras.github.io/MySite/index.html"><img width="30%" img height="30%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_World.png" />
+  <a href="https://aymanakhras.github.io/"><img width="30%" img height="30%" src="https://github.com/AymanAkhras/AymanAkhras/blob/main/Hello_World.png" />
   </a>
   <img width="10%" img height="10%" margin src="https://github.com/AymanAkhras/AymanAkhras/blob/main/HandWave.gif" /> 
 
