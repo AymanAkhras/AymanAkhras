@@ -13,7 +13,7 @@
 - 💼 Previously at TD Bank
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Software Engineering 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 McMaster 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸025
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
-- Portfolio[https://aymanakhras.github.io/] https://aymanakhras.github.io/
+- (Portfolio:)[https://aymanakhras.github.io/] https://aymanakhras.github.io/
 
 <h2 align="center"> 👨🏻‍💻 Languages and Tools </h2>
 
